@@ -5,6 +5,11 @@ Hello! We are an indie game studio based in the United States. We don't have a n
 ### Games  
 - [ ] Witch Tower Defense (WIP)  
 - [ ] Ajax Dating Simulator (WIP)  
+  - story done
+  - art in progress...
+  - bgm to do
+  - sfx to do
+  - game implementation to do
 - [x] Wood Chopping Arcade Game  
   - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/Wood-Chopping-Sim)  
   - [Itch.io Page](https://shadowbusters.itch.io/wood-chopping-simulator-arcade-game)  
