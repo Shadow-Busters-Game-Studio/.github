@@ -1,7 +1,7 @@
 # Shadow Busters Game Studio  
 Hello! We are an indie game studio based in the United States. We don't have a niche as of now, as we are developing as a team and are only a team of three currently.  
 [Shadow Busters Itch.io Page](https://shadowbusters.itch.io/)  
-
+#
 ### Games  
 - [ ] Hallowing House (WIP)  
     Witch Tower Defense
@@ -18,8 +18,9 @@ Hello! We are an indie game studio based in the United States. We don't have a n
     Chop down as many trees as possible in the time limit!  
   - [Itch.io Page](https://shadowbusters.itch.io/wood-chopping-simulator-arcade-game)  
   - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/wood-chopping-sim)  
-
+#
 ### Shadow Busters Team!  
-- [Manon](https://github.com/manonaskateb)  
+- [Manon](https://github.com/manonalefebvre)  
 - [Clayton](https://github.com/berkutie)  
 - [Cam](https://github.com/camkay0)  
+#
