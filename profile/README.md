@@ -1,6 +1,6 @@
 # Shadow Busters Game Studio  
 Hello! We are an indie game studio based in the United States. We don't have a niche as of now, as we are developing as a team and are only a team of three currently.  
-[Shadow Busters Itch.io](https://shadowbusters.itch.io/)  
+[Shadow Busters Itch.io Page](https://shadowbusters.itch.io/)  
 
 ### Games  
 - [ ] Hallowing House (WIP)  
