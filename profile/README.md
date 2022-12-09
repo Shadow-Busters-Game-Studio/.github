@@ -5,7 +5,7 @@ Hello! We are an indie game studio based in the United States. We don't have a n
 ### Games  
 - [ ] Hallowing House (WIP)  
     Witch Tower Defense
-  - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/witch-tower-defense)  
+  - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/hallowing-house)  
 - [ ] Celestia Cafe (WIP)  
     Ajax Dating Simulator
   - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/celestia-cafe)  
@@ -15,9 +15,9 @@ Hello! We are an indie game studio based in the United States. We don't have a n
   - sfx to do
   - game implementation to do
 - [x] Wood Chopping Arcade Game  
-    Chop down as many trees as possible in the time limit!
-  - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/wood-chopping-sim)  
+    Chop down as many trees as possible in the time limit!  
   - [Itch.io Page](https://shadowbusters.itch.io/wood-chopping-simulator-arcade-game)  
+  - [GitHub Repository](https://github.com/Shadow-Busters-Game-Studio/wood-chopping-sim)  
 
 ### Shadow Busters Team!  
 - [Manon](https://github.com/manonaskateb)  
